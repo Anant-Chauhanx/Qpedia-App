@@ -26,16 +26,6 @@
 
 ---
 
-## Screenshots
-
-| Landing Screen | Homepage | University Selection | PDF Viewer |
-|----------------|----------|----------------------|------------|
-| ![Landing](screenshots/landing.png) | ![Homepage](screenshots/homepage.png) | ![Universities](screenshots/universities.png) | ![PDF](screenshots/pdf.png) |
-
-*Note: Screenshots are placeholders. Replace with actual images of your app by creating a `screenshots/` folder in your repo.*
-
----
-
 ## Installation
 
 ### Prerequisites
