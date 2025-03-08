@@ -40,23 +40,3 @@
    git clone https://github.com/yourusername/qpedia.git
    cd qpedia
 
-qpedia/
-├── assets/               # Static assets (images, SVGs, GIFs)
-│   ├── question.home.jpg
-│   ├── notes.home.jpg
-│   ├── Landing2.jpg
-│   ├── arrow.svg
-│   ├── arrow2.gif
-│   ├── aktu-logo.webp
-│   ├── du-logo.webp
-│   ├── ipu-logo.webp
-│   └── vtu-logo.webp
-├── lib/
-│   ├── Pages/            # Screen widgets
-│   │   ├── LandingScreen.dart
-│   │   ├── HomePage.dart
-│   │   ├── UniversitiesPage.dart
-│   │   └── PDFViewerPage.dart
-│   └── main.dart         # App entry point
-├── pubspec.yaml          # Dependencies and app configuration
-└── README.md             # This file
